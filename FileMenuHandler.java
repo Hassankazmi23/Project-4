@@ -4,8 +4,6 @@ import java.io.File;
 import java.io.FileNotFoundException;
 
 /**
- * 
- * @author Samee Bashar
  * This class handles what happens when the user clicks on an item in the File menu
  *
  */
