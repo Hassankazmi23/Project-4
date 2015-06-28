@@ -1,8 +1,5 @@
 import javax.swing.*;
 import java.awt.event.*;
-/**
- * 
- * @author Samee Bashar
  * This class handles what happens when the user clicks an item in the Display  menu
  *
  */
