@@ -4,8 +4,6 @@ import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 /**
- * 
- * @author Samee Bashar
  * The public class PlayerGui will display the information in a pop-up box/window
  */
 public class PlayerGui extends JFrame {
