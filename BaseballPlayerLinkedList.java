@@ -1,7 +1,5 @@
 import java.awt.TextArea;
 /**
- * 
- * @author Samee Bashar
  * This is the BaseballPlayerLinkedLIst
  */
 
