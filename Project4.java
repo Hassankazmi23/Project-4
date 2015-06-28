@@ -2,7 +2,6 @@ import java.io.*;
 import java.util.Scanner;
 /**
  * 
- * @author Samee Bashar
  * A program that reads from a text file and organizes the data and displays All the players or specific type of players depending on the menu item clicked
  */
 public class Project4 {
