@@ -1,6 +1,4 @@
 /**
- * 
- * @author Samee Bashar
  * This is the public class for BaseballPlayerListIterator 
  */
 public class BaseballPlayerListIterator {
