@@ -1,6 +1,4 @@
 /**
- * 
- * @author Samee Bashar
  * This is the public class for the Fielder inherit from BaseballPlayer
  */
 public class Fielder extends BaseballPlayer {
