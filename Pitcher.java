@@ -1,6 +1,4 @@
 /**
- * 
- * @author Samee Bashar
  * This is the public class Pitcher which inherits from BaseballPlayer
  */
 public class Pitcher extends BaseballPlayer {
