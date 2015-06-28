@@ -1,6 +1,4 @@
 /**
- * 
- * @author Samee Bashar
  * This is the public class for BaseballPlayerNode
  */
 public class BaseballPlayerNode {
